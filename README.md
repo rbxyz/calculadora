@@ -1,6 +1,5 @@
-# calculadora
-mini-projeto calculadora
+# Calculadora Online
 
-## Projeto voltado para uma mini calculadora online
+### Projeto voltado para uma mini calculadora online
 
 - Integração: 
